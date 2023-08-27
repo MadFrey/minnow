@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libstream_copy.a CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.obj
+C:\mingw64\bin\ranlib.exe libstream_copy.a

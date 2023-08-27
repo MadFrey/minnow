@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libminnow_testing_debug.a CMakeFiles/minnow_testing_debug.dir/common.cc.obj
+C:\mingw64\bin\ranlib.exe libminnow_testing_debug.a

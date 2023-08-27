@@ -1,0 +1,707 @@
+[
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\address.cc.obj -c D:\\VMCS144\\minnow-main\\util\\address.cc",
+  "file": "D:/VMCS144/minnow-main/util/address.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\arp_message.cc.obj -c D:\\VMCS144\\minnow-main\\util\\arp_message.cc",
+  "file": "D:/VMCS144/minnow-main/util/arp_message.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\ethernet_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ethernet_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ethernet_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\eventloop.cc.obj -c D:\\VMCS144\\minnow-main\\util\\eventloop.cc",
+  "file": "D:/VMCS144/minnow-main/util/eventloop.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\file_descriptor.cc.obj -c D:\\VMCS144\\minnow-main\\util\\file_descriptor.cc",
+  "file": "D:/VMCS144/minnow-main/util/file_descriptor.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\ipv4_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ipv4_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ipv4_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\random.cc.obj -c D:\\VMCS144\\minnow-main\\util\\random.cc",
+  "file": "D:/VMCS144/minnow-main/util/random.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\tcp_minnow_socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_minnow_socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_minnow_socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\tcp_over_ip.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_over_ip.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_over_ip.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\tcp_segment.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_segment.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_segment.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\tun.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tun.cc",
+  "file": "D:/VMCS144/minnow-main/util/tun.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\util_debug.dir\\tuntap_adapter.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tuntap_adapter.cc",
+  "file": "D:/VMCS144/minnow-main/util/tuntap_adapter.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\address.cc.obj -c D:\\VMCS144\\minnow-main\\util\\address.cc",
+  "file": "D:/VMCS144/minnow-main/util/address.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\arp_message.cc.obj -c D:\\VMCS144\\minnow-main\\util\\arp_message.cc",
+  "file": "D:/VMCS144/minnow-main/util/arp_message.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\ethernet_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ethernet_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ethernet_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\eventloop.cc.obj -c D:\\VMCS144\\minnow-main\\util\\eventloop.cc",
+  "file": "D:/VMCS144/minnow-main/util/eventloop.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\file_descriptor.cc.obj -c D:\\VMCS144\\minnow-main\\util\\file_descriptor.cc",
+  "file": "D:/VMCS144/minnow-main/util/file_descriptor.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\ipv4_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ipv4_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ipv4_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\random.cc.obj -c D:\\VMCS144\\minnow-main\\util\\random.cc",
+  "file": "D:/VMCS144/minnow-main/util/random.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\tcp_minnow_socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_minnow_socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_minnow_socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\tcp_over_ip.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_over_ip.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_over_ip.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\tcp_segment.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_segment.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_segment.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\tun.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tun.cc",
+  "file": "D:/VMCS144/minnow-main/util/tun.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\util_sanitized.dir\\tuntap_adapter.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tuntap_adapter.cc",
+  "file": "D:/VMCS144/minnow-main/util/tuntap_adapter.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\address.cc.obj -c D:\\VMCS144\\minnow-main\\util\\address.cc",
+  "file": "D:/VMCS144/minnow-main/util/address.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\arp_message.cc.obj -c D:\\VMCS144\\minnow-main\\util\\arp_message.cc",
+  "file": "D:/VMCS144/minnow-main/util/arp_message.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\ethernet_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ethernet_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ethernet_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\eventloop.cc.obj -c D:\\VMCS144\\minnow-main\\util\\eventloop.cc",
+  "file": "D:/VMCS144/minnow-main/util/eventloop.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\file_descriptor.cc.obj -c D:\\VMCS144\\minnow-main\\util\\file_descriptor.cc",
+  "file": "D:/VMCS144/minnow-main/util/file_descriptor.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\ipv4_header.cc.obj -c D:\\VMCS144\\minnow-main\\util\\ipv4_header.cc",
+  "file": "D:/VMCS144/minnow-main/util/ipv4_header.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\random.cc.obj -c D:\\VMCS144\\minnow-main\\util\\random.cc",
+  "file": "D:/VMCS144/minnow-main/util/random.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\tcp_minnow_socket.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_minnow_socket.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_minnow_socket.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\tcp_over_ip.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_over_ip.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_over_ip.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\tcp_segment.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tcp_segment.cc",
+  "file": "D:/VMCS144/minnow-main/util/tcp_segment.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\tun.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tun.cc",
+  "file": "D:/VMCS144/minnow-main/util/tun.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/util",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/util_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\util_optimized.dir\\tuntap_adapter.cc.obj -c D:\\VMCS144\\minnow-main\\util\\tuntap_adapter.cc",
+  "file": "D:/VMCS144/minnow-main/util/tuntap_adapter.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\byte_stream.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\byte_stream_helpers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream_helpers.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\network_interface.cc.obj -c D:\\VMCS144\\minnow-main\\src\\network_interface.cc",
+  "file": "D:/VMCS144/minnow-main/src/network_interface.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\reassembler.cc.obj -c D:\\VMCS144\\minnow-main\\src\\reassembler.cc",
+  "file": "D:/VMCS144/minnow-main/src/reassembler.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\router.cc.obj -c D:\\VMCS144\\minnow-main\\src\\router.cc",
+  "file": "D:/VMCS144/minnow-main/src/router.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\tcp_receiver.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_receiver.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_receiver.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\tcp_sender.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_sender.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_sender.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_debug.dir\\wrapping_integers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\wrapping_integers.cc",
+  "file": "D:/VMCS144/minnow-main/src/wrapping_integers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\byte_stream.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\byte_stream_helpers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream_helpers.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\network_interface.cc.obj -c D:\\VMCS144\\minnow-main\\src\\network_interface.cc",
+  "file": "D:/VMCS144/minnow-main/src/network_interface.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\reassembler.cc.obj -c D:\\VMCS144\\minnow-main\\src\\reassembler.cc",
+  "file": "D:/VMCS144/minnow-main/src/reassembler.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\router.cc.obj -c D:\\VMCS144\\minnow-main\\src\\router.cc",
+  "file": "D:/VMCS144/minnow-main/src/router.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\tcp_receiver.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_receiver.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_receiver.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\tcp_sender.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_sender.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_sender.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_sanitized.dir\\wrapping_integers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\wrapping_integers.cc",
+  "file": "D:/VMCS144/minnow-main/src/wrapping_integers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\byte_stream.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\byte_stream_helpers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\byte_stream_helpers.cc",
+  "file": "D:/VMCS144/minnow-main/src/byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\network_interface.cc.obj -c D:\\VMCS144\\minnow-main\\src\\network_interface.cc",
+  "file": "D:/VMCS144/minnow-main/src/network_interface.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\reassembler.cc.obj -c D:\\VMCS144\\minnow-main\\src\\reassembler.cc",
+  "file": "D:/VMCS144/minnow-main/src/reassembler.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\router.cc.obj -c D:\\VMCS144\\minnow-main\\src\\router.cc",
+  "file": "D:/VMCS144/minnow-main/src/router.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\tcp_receiver.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_receiver.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_receiver.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\tcp_sender.cc.obj -c D:\\VMCS144\\minnow-main\\src\\tcp_sender.cc",
+  "file": "D:/VMCS144/minnow-main/src/tcp_sender.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_optimized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\minnow_optimized.dir\\wrapping_integers.cc.obj -c D:\\VMCS144\\minnow-main\\src\\wrapping_integers.cc",
+  "file": "D:/VMCS144/minnow-main/src/wrapping_integers.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_testing_debug.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\minnow_testing_debug.dir\\common.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\common.cc",
+  "file": "D:/VMCS144/minnow-main/tests/common.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/minnow_testing_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\minnow_testing_sanitized.dir\\common.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\common.cc",
+  "file": "D:/VMCS144/minnow-main/tests/common.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_capacity_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_capacity_sanitized.dir\\byte_stream_capacity.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_capacity.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_one_write_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_one_write_sanitized.dir\\byte_stream_one_write.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_one_write.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_one_write.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_one_write.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_two_writes_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_two_writes_sanitized.dir\\byte_stream_two_writes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_two_writes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_two_writes.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_two_writes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_many_writes_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_many_writes_sanitized.dir\\byte_stream_many_writes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_many_writes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_basics.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_basics.dir\\byte_stream_basics.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_basics.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_basics.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_capacity.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_capacity.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_basics_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_basics_sanitized.dir\\byte_stream_basics.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_basics.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_basics.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_overlapping_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_overlapping_sanitized.dir\\reassembler_overlapping.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_overlapping.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_overlapping.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_stress_test_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\byte_stream_stress_test_sanitized.dir\\byte_stream_stress_test.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_stress_test.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_stress_test.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_dup.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_dup.dir\\reassembler_dup.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_dup.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_dup.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_overlapping.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_overlapping.dir\\reassembler_overlapping.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_overlapping.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_overlapping.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_roundtrip_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\wrapping_integers_roundtrip_sanitized.dir\\wrapping_integers_roundtrip.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_roundtrip.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_roundtrip.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_roundtrip.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\wrapping_integers_roundtrip.dir\\wrapping_integers_roundtrip.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_roundtrip.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_roundtrip.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_single_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_single_sanitized.dir\\reassembler_single.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_single.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_single.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_stress_test.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_stress_test.dir\\byte_stream_stress_test.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_stress_test.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_stress_test.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_single.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_single.dir\\reassembler_single.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_single.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_single.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_many_writes.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_many_writes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_cap.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_cap.dir\\reassembler_cap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_cap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_cap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_seq_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_seq_sanitized.dir\\reassembler_seq.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_seq.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_seq.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_holes.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_holes.dir\\reassembler_holes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_holes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_holes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_win_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_win_sanitized.dir\\reassembler_win.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_win.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_win.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_win.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_win.dir\\reassembler_win.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_win.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_win.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_cmp.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\wrapping_integers_cmp.dir\\wrapping_integers_cmp.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_cmp.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_cmp.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_seq.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\reassembler_seq.dir\\reassembler_seq.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_seq.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_seq.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_holes_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_holes_sanitized.dir\\reassembler_holes.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_holes.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_holes.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_wrap_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\wrapping_integers_wrap_sanitized.dir\\wrapping_integers_wrap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_wrap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_wrap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_wrap.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\wrapping_integers_wrap.dir\\wrapping_integers_wrap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_wrap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_wrap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_cap_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_cap_sanitized.dir\\reassembler_cap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_cap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_cap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_unwrap_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\wrapping_integers_unwrap_sanitized.dir\\wrapping_integers_unwrap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_unwrap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_unwrap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_dup_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\reassembler_dup_sanitized.dir\\reassembler_dup.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_dup.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_dup.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_cmp_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\wrapping_integers_cmp_sanitized.dir\\wrapping_integers_cmp.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_cmp.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_cmp.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_unwrap.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\wrapping_integers_unwrap.dir\\wrapping_integers_unwrap.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_unwrap.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_unwrap.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_window_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_window_sanitized.dir\\send_window.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_window.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_window.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_close_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_close_sanitized.dir\\recv_close.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_close.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_close.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_special.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_special.dir\\recv_special.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_special.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_special.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_connect.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_connect.dir\\recv_connect.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_connect.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_connect.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_connect_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_connect_sanitized.dir\\send_connect.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_connect.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_connect.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_window.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_window.dir\\send_window.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_window.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_window.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_transmit_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_transmit_sanitized.dir\\recv_transmit.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_transmit.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_transmit.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_transmit.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_transmit.dir\\recv_transmit.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_transmit.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_transmit.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_window_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_window_sanitized.dir\\recv_window.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_window.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_window.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_reorder.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_reorder.dir\\recv_reorder.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_reorder.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_reorder.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_reorder_more_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_reorder_more_sanitized.dir\\recv_reorder_more.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_reorder_more.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_reorder_more.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_reorder_more.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_reorder_more.dir\\recv_reorder_more.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_reorder_more.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_reorder_more.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_extra.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\wrapping_integers_extra.dir\\wrapping_integers_extra.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_extra.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_extra.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_connect_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_connect_sanitized.dir\\recv_connect.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_connect.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_connect.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_special_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_special_sanitized.dir\\recv_special.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_special.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_special.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_connect.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_connect.dir\\send_connect.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_connect.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_connect.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/wrapping_integers_extra_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\wrapping_integers_extra_sanitized.dir\\wrapping_integers_extra.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\wrapping_integers_extra.cc",
+  "file": "D:/VMCS144/minnow-main/tests/wrapping_integers_extra.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_transmit_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_transmit_sanitized.dir\\send_transmit.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_transmit.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_transmit.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_retx_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_retx_sanitized.dir\\send_retx.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_retx.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_retx.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_reorder_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\recv_reorder_sanitized.dir\\recv_reorder.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_reorder.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_reorder.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_close.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_close.dir\\recv_close.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_close.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_close.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_retx.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_retx.dir\\send_retx.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_retx.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_retx.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/recv_window.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\recv_window.dir\\recv_window.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\recv_window.cc",
+  "file": "D:/VMCS144/minnow-main/tests/recv_window.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_transmit.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_transmit.dir\\send_transmit.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_transmit.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_transmit.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_ack_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_ack_sanitized.dir\\send_ack.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_ack.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_ack.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_extra.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_extra.dir\\send_extra.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_extra.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_extra.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_close.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_close.dir\\send_close.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_close.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_close.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_ack.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\send_ack.dir\\send_ack.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_ack.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_ack.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_extra_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_extra_sanitized.dir\\send_extra.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_extra.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_extra.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/router.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\router.dir\\router.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\router.cc",
+  "file": "D:/VMCS144/minnow-main/tests/router.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/net_interface.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\net_interface.dir\\net_interface.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\net_interface.cc",
+  "file": "D:/VMCS144/minnow-main/tests/net_interface.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/net_interface_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\net_interface_sanitized.dir\\net_interface.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\net_interface.cc",
+  "file": "D:/VMCS144/minnow-main/tests/net_interface.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/router_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\router_sanitized.dir\\router.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\router.cc",
+  "file": "D:/VMCS144/minnow-main/tests/router.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/send_close_sanitized.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++2a -o CMakeFiles\\send_close_sanitized.dir\\send_close.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\send_close.cc",
+  "file": "D:/VMCS144/minnow-main/tests/send_close.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_speed_test.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\byte_stream_speed_test.dir\\byte_stream_speed_test.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\byte_stream_speed_test.cc",
+  "file": "D:/VMCS144/minnow-main/tests/byte_stream_speed_test.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/reassembler_speed_test.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++2a -o CMakeFiles\\reassembler_speed_test.dir\\reassembler_speed_test.cc.obj -c D:\\VMCS144\\minnow-main\\tests\\reassembler_speed_test.cc",
+  "file": "D:/VMCS144/minnow-main/tests/reassembler_speed_test.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/stream_copy.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\stream_copy.dir\\bidirectional_stream_copy.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\bidirectional_stream_copy.cc",
+  "file": "D:/VMCS144/minnow-main/apps/bidirectional_stream_copy.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/webget.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\webget.dir\\webget.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\webget.cc",
+  "file": "D:/VMCS144/minnow-main/apps/webget.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/iptest.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\iptest.dir\\iptest.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\iptest.cc",
+  "file": "D:/VMCS144/minnow-main/apps/iptest.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tcp_native.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\tcp_native.dir\\tcp_native.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\tcp_native.cc",
+  "file": "D:/VMCS144/minnow-main/apps/tcp_native.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tcp_ipv4.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\tcp_ipv4.dir\\tcp_ipv4.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\tcp_ipv4.cc",
+  "file": "D:/VMCS144/minnow-main/apps/tcp_ipv4.cc"
+},
+{
+  "directory": "D:/VMCS144/minnow-main/cmake-build-debug/apps",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/endtoend.dir/includes_CXX.rsp  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++2a -o CMakeFiles\\endtoend.dir\\endtoend.cc.obj -c D:\\VMCS144\\minnow-main\\apps\\endtoend.cc",
+  "file": "D:/VMCS144/minnow-main/apps/endtoend.cc"
+}
+]

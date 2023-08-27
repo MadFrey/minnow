@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libminnow_optimized.a CMakeFiles/minnow_optimized.dir/byte_stream.cc.obj CMakeFiles/minnow_optimized.dir/byte_stream_helpers.cc.obj CMakeFiles/minnow_optimized.dir/network_interface.cc.obj CMakeFiles/minnow_optimized.dir/reassembler.cc.obj CMakeFiles/minnow_optimized.dir/router.cc.obj CMakeFiles/minnow_optimized.dir/tcp_receiver.cc.obj CMakeFiles/minnow_optimized.dir/tcp_sender.cc.obj CMakeFiles/minnow_optimized.dir/wrapping_integers.cc.obj
+C:\mingw64\bin\ranlib.exe libminnow_optimized.a

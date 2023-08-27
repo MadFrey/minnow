@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libminnow_sanitized.a CMakeFiles/minnow_sanitized.dir/byte_stream.cc.obj CMakeFiles/minnow_sanitized.dir/byte_stream_helpers.cc.obj CMakeFiles/minnow_sanitized.dir/network_interface.cc.obj CMakeFiles/minnow_sanitized.dir/reassembler.cc.obj CMakeFiles/minnow_sanitized.dir/router.cc.obj CMakeFiles/minnow_sanitized.dir/tcp_receiver.cc.obj CMakeFiles/minnow_sanitized.dir/tcp_sender.cc.obj CMakeFiles/minnow_sanitized.dir/wrapping_integers.cc.obj
+C:\mingw64\bin\ranlib.exe libminnow_sanitized.a
