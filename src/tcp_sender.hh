@@ -21,7 +21,7 @@ private:
   std::queue<TCPSenderMessage> segments_out {};
   std::map<uint64_t, TCPSenderMessage> outstanding_seg_ {};
   uint64_t outstanding_seg = { 0 };
-  uint16_t window_size_ = { 0 };
+  uint16_t window_size_ = { 1};
 
 public:
   /* Construct TCP sender with given default Retransmission Timeout and possible ISN */

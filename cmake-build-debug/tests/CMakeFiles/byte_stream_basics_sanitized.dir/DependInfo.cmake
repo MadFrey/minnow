@@ -11,11 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/VMCS144/minnow-main/tests/byte_stream_basics.cc" "tests/CMakeFiles/byte_stream_basics_sanitized.dir/byte_stream_basics.cc.obj" "gcc" "tests/CMakeFiles/byte_stream_basics_sanitized.dir/byte_stream_basics.cc.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "D:/VMCS144/minnow-main/cmake-build-debug/tests/CMakeFiles/minnow_testing_sanitized.dir/DependInfo.cmake"
-  "D:/VMCS144/minnow-main/cmake-build-debug/src/CMakeFiles/minnow_sanitized.dir/DependInfo.cmake"
-  "D:/VMCS144/minnow-main/cmake-build-debug/util/CMakeFiles/util_sanitized.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/JetBrains/CLion 2022.3.2/bin/cmake/win/x64/bin/cmake.exe" "D:/VMCS144/minnow-main"
+ConfigureCommand: "C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/bin/cmake.exe" "D:/VMCS144/minnow-main"
 MakeCommand: C:/Program\ Files/JetBrains/CLion\ 2022.3.2/bin/cmake/win/x64/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

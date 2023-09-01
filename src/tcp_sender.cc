@@ -1,6 +1,6 @@
 #include "tcp_sender.hh"
 #include "tcp_config.hh"
-
+#include<iostream>
 #include <random>
 
 using namespace std;
@@ -13,7 +13,7 @@ TCPSender::TCPSender( uint64_t initial_RTO_ms, optional<Wrap32> fixed_isn )
 uint64_t TCPSender::sequence_numbers_in_flight() const
 {
   // Your code here.
-  return outstanding_seg_.size();
+  return outstanding_seg;
 }
 
 uint64_t TCPSender::consecutive_retransmissions() const
@@ -58,21 +58,30 @@ void TCPSender::push( Reader& outbound_stream )
     std::string str = std::string( outbound_stream.peek() ).substr( 0, payload );
     outbound_stream.pop( payload );
     segment.payload = Buffer( str );
-    // close
-    if ( !fin_ && outbound_stream.is_finished() && outstanding_seg < window_size ) {
+    // close      Pay attention to the location of break.
+    if ( !fin_ && outbound_stream.is_finished() && outstanding_seg+segment.sequence_length() < window_size ) {
       segment.FIN = true;
       fin_ = true;
     }
+
+    if (segment.sequence_length() == 0) {  //important
+      break;
+    }
+
     segments_out.push( segment );
     outstanding_seg += segment.sequence_length();
     next_abs_seqno_ += segment.sequence_length();
     outstanding_seg_[next_abs_seqno_] = segment;
+    if(segment.FIN){
+      break;
+    }
   }
 }
 
 TCPSenderMessage TCPSender::send_empty_message() const
 {
   TCPSenderMessage segment;
+  segment.seqno = isn_+next_abs_seqno_;
   return segment;
 }
 
@@ -101,6 +110,7 @@ void TCPSender::receive( const TCPReceiverMessage& msg )
         break;
       }
     }
+    con_retransmissions = 0;  // important fix:接收到就要重制，因为不连续了
   }
   window_size_ = msg.window_size;
   (void)msg;
@@ -121,6 +131,4 @@ void TCPSender::tick( const size_t ms_since_last_tick )
     segments_out.push( value );
     con_retransmissions++;
   }
-
-  (void)ms_since_last_tick;
 }

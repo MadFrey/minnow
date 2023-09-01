@@ -4,7 +4,7 @@
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
-add_test([=[compile with bug-checkers]=] "C:/Program Files/JetBrains/CLion 2022.3.2/bin/cmake/win/x64/bin/cmake.exe" "--build" "D:/VMCS144/minnow-main/cmake-build-debug" "-t" "functionality_testing" "webget")
+add_test([=[compile with bug-checkers]=] "C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/bin/cmake.exe" "--build" "D:/VMCS144/minnow-main/cmake-build-debug" "-t" "functionality_testing" "webget")
 set_tests_properties([=[compile with bug-checkers]=] PROPERTIES  FIXTURES_SETUP "compile" TIMEOUT "-1" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;6;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")
 add_test([=[t_webget]=] "D:/VMCS144/minnow-main/tests/webget_t.sh" "D:/VMCS144/minnow-main/cmake-build-debug")
 set_tests_properties([=[t_webget]=] PROPERTIES  FIXTURES_REQUIRED "compile" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;17;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")
@@ -76,7 +76,7 @@ add_test([=[net_interface]=] "D:/VMCS144/minnow-main/cmake-build-debug/tests/net
 set_tests_properties([=[net_interface]=] PROPERTIES  FIXTURES_REQUIRED "compile" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;10;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;57;ttest;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")
 add_test([=[router]=] "D:/VMCS144/minnow-main/cmake-build-debug/tests/router_sanitized.exe")
 set_tests_properties([=[router]=] PROPERTIES  FIXTURES_REQUIRED "compile" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;10;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;59;ttest;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")
-add_test([=[compile with optimization]=] "C:/Program Files/JetBrains/CLion 2022.3.2/bin/cmake/win/x64/bin/cmake.exe" "--build" "D:/VMCS144/minnow-main/cmake-build-debug" "-t" "speed_testing")
+add_test([=[compile with optimization]=] "C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/bin/cmake.exe" "--build" "D:/VMCS144/minnow-main/cmake-build-debug" "-t" "speed_testing")
 set_tests_properties([=[compile with optimization]=] PROPERTIES  FIXTURES_SETUP "compile_opt" TIMEOUT "-1" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;80;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")
 add_test([=[byte_stream_speed_test]=] "D:/VMCS144/minnow-main/cmake-build-debug/tests/byte_stream_speed_test.exe")
 set_tests_properties([=[byte_stream_speed_test]=] PROPERTIES  FIXTURES_REQUIRED "compile_opt" _BACKTRACE_TRIPLES "D:/VMCS144/minnow-main/etc/tests.cmake;84;add_test;D:/VMCS144/minnow-main/etc/tests.cmake;91;stest;D:/VMCS144/minnow-main/etc/tests.cmake;0;;D:/VMCS144/minnow-main/CMakeLists.txt;16;include;D:/VMCS144/minnow-main/CMakeLists.txt;0;")

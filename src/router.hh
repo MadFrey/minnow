@@ -64,6 +64,13 @@ public:
     interfaces_.push_back( std::move( interface ) );
     return interfaces_.size() - 1;
   }
+  struct route_t {
+    uint32_t route_prefix = 0;
+    uint8_t prefix_length = 0;
+    std::optional<Address> next_hop = std::nullopt;
+    size_t interface_num = 0;
+  };
+  std::vector<route_t> routing_table_ {};
 
   // Access an interface by index
   AsyncNetworkInterface& interface( size_t N ) { return interfaces_.at( N ); }

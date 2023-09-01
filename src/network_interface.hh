@@ -4,12 +4,14 @@
 #include "ethernet_frame.hh"
 #include "ipv4_datagram.hh"
 
+#include <cstddef>
 #include <iostream>
 #include <list>
 #include <optional>
 #include <queue>
 #include <unordered_map>
 #include <utility>
+#include "map"
 
 // A "network interface" that connects IP (the internet layer, or network layer)
 // with Ethernet (the network access layer, or link layer).
@@ -40,6 +42,18 @@ private:
 
   // IP (known as Internet-layer or network-layer) address of the interface
   Address ip_address_;
+  using arp_t = struct {
+    EthernetAddress eth_addr; // mac address
+    size_t ttl;               // time to live
+  };
+  std::unordered_map<uint32_t , arp_t> arp_table_{};
+  std::queue<EthernetFrame> outbound_frames_ {};
+  std::unordered_map<uint32_t /* ipv4 numeric */, size_t /* ttl */> arp_requests_lifetime_ {};
+  std::list<std::pair<Address, InternetDatagram>> arp_datagrams_waiting_list_ {}; //O()?
+
+  size_t ARP_REQUEST_DEFAULT_TTL = {static_cast<size_t>(5000)};  //请求超时时间 ms
+  size_t ARP_TABLE_TTL = {static_cast<size_t>(30*1000)}; //保存时间
+
 
 public:
   // Construct a network interface with given Ethernet (network-access-layer) and IP (internet-layer)

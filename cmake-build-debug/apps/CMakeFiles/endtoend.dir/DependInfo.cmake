@@ -11,11 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/VMCS144/minnow-main/apps/endtoend.cc" "apps/CMakeFiles/endtoend.dir/endtoend.cc.obj" "gcc" "apps/CMakeFiles/endtoend.dir/endtoend.cc.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "D:/VMCS144/minnow-main/cmake-build-debug/apps/CMakeFiles/stream_copy.dir/DependInfo.cmake"
-  "D:/VMCS144/minnow-main/cmake-build-debug/src/CMakeFiles/minnow_debug.dir/DependInfo.cmake"
-  "D:/VMCS144/minnow-main/cmake-build-debug/util/CMakeFiles/util_debug.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
